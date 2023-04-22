@@ -89,4 +89,4 @@
 <br />
 
 
-This is the end of the tutorial series on osTicket. <h1>Thank Your for looking!
+This is the end of the tutorial series on osTicket. <h1>Thank You for looking at my content!
